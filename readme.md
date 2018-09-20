@@ -28,8 +28,10 @@ Lets start with full form of ***SOLID***
 
 #### Single Responsibility Principle
  
-**What ?**
-One software entity(Class, method, interface etc.) must do one thing.
+**What ?**  
+
+One software entity(Class, method, interface etc.) must do one thing.  
+
 **Ways to achieve it ?**
 Segregate responsibility among related entity, rather that putting
 multiple things in a one entity.
